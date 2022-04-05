@@ -19,4 +19,7 @@ public abstract class ITPerson {
     public abstract boolean hasReadAccess();
     public abstract boolean hasWriteAccess();
 
+    public void add(String string) {
+    }
+
 }
